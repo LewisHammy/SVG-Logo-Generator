@@ -21,3 +21,5 @@ Shape to be rendered (currently only supports triangle)
 Shape color (color keyword or hexadecimal number)
 Once all the information is entered, the SVG logo will be generated and saved as "logo.svg" in the root directory.
 
+## Walkthrough 
+https://youtu.be/wDwxhJDW6kk
